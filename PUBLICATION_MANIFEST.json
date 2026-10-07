@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-08",
+  "title": "Speech-language classification with explicit margin optimization",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "b9cea00110e7f0fba7616008b081545e2878984c5adf14e366071134a3ac556e",
+      "bytes": 95
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "e7c79e595259cb4d70af216e798fb075fea8411db829ab22e89b6e2683a19589",
+      "bytes": 474
+    },
+    {
+      "path": "audio_features.py",
+      "sha256": "8e254f58470a16d88a4c2bcffd98d28fdca59be77bb662599c3186bf00061932",
+      "bytes": 5852
+    },
+    {
+      "path": "experiment.py",
+      "sha256": "555125be4f78b62978144e8c5794076fb0d32f0ae998416c601b07d5f4703b80",
+      "bytes": 5952
+    },
+    {
+      "path": "linear_margin.py",
+      "sha256": "42a67aef23634e131bfad478935fc6a2a786e1f4aa49be6a98bcbf64346dd9ec",
+      "bytes": 3733
+    },
+    {
+      "path": "metrics.json",
+      "sha256": "7d7be3a5d96adfb67b20aec7c84d5b7630ff2a4d5fb716aa0b1da1a8995f6beb",
+      "bytes": 13326
+    },
+    {
+      "path": "project.ipynb",
+      "sha256": "1d808d3f097b944d3956733df84ab805b33bd586fd958a7900d0550e706182d3",
+      "bytes": 2218
+    },
+    {
+      "path": "README.md",
+      "sha256": "1776d72af778c08bb21f59e7a6771d71e386f9c3abed66ab3b5cb48b2ab96cec",
+      "bytes": 3667
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "625b40c927b8d73ab6d988aeefa9de6441520ae8c4982335c8f7dc559bbe7105",
+      "bytes": 100
+    },
+    {
+      "path": "test_margin.py",
+      "sha256": "1b2081b5c7cb6da12dc2c9c3a03fadf7513637cefa9b4a661f334a6e33e4bf3a",
+      "bytes": 4545
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "511a1fc1cb4e48a4bc5a30b93050f523ca4f8e5d8f5fba8635c4cf77bd0b68e4",
+      "bytes": 841
+    }
+  ]
+}

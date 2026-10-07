@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-07",
+  "project": "speech-language-margin-classifier",
+  "completion_scope": "verified implementation or finished document; not a production certification",
+  "checks": [
+    {
+      "name": "Six mathematical, label, checkpoint, speaker-partition and malformed-input checks passed",
+      "passed": true
+    },
+    {
+      "name": "Fresh 268-recording three-speaker experiment; validation-only selection for three classifiers",
+      "passed": true
+    },
+    {
+      "name": "Every manual checkpoint exactly reproduces held-out predictions/margins and actual single-WAV inference; notebook cells executed",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "Weak performance on three voices; no reliable general-purpose language detector claim. Raw audio, models and media remain local."
+  ]
+}
